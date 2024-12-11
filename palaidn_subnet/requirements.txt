@@ -1,0 +1,9 @@
+bittensor>=7.2,<=7.3.1
+web3
+argparse
+pandas
+python-dotenv
+requests
+python-dateutil
+torch
+requests
